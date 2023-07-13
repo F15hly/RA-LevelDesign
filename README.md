@@ -7,3 +7,4 @@ Project should open on "SCI-FI RA" Scene/Umap
 
 Unreal Engine Project file "Project3"
 Created in UnrealEngine 5.0
+Gitignore set to ignore 'unreal Engine'
